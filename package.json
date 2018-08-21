@@ -1,0 +1,23 @@
+{
+  "name": "connection_from_javascript_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assignment.js",
+  "dependencies": {
+    "pg": "^7.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktoroshchin/connecting_from_javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktoroshchin/connecting_from_javascript/issues"
+  },
+  "homepage": "https://github.com/ktoroshchin/connecting_from_javascript#readme"
+}
